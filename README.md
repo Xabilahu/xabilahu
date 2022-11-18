@@ -29,7 +29,3 @@ My name is __Xabier Lahuerta__ and I'm a __Software Development Engineer at Amaz
   </br>
   <img alt="visitors counter" src="https://komarev.com/ghpvc/?username=xabilahu&color=5319e7&style=flat">
 </details>
-
----
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U6GGQDA)
