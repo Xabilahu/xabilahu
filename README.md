@@ -14,7 +14,7 @@ My name is __Xabier Lahuerta__ and I'm a __Software Development Engineer at Amaz
   <a href="mailto:xlahuerta@protonmail.com" target="_blank"><img src="https://img.icons8.com/stickers/64/new-post.png" title="Email Me:" alt="Gmail"/></a>
 </div>
 
-### 📈 Github stats
+## 📈 Github stats
 
 <details>
   <summary>💻 GitHub Profile Stats</summary>
