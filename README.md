@@ -9,7 +9,6 @@ My name is __Xabier Lahuerta__ and I'm a __Software Development Engineer at Amaz
 
 ## 🙋‍♂️ Let's Connect
 <div align="center">
-  <a href="https://xabilahu.github.io" target="_blank"><img src="https://img.icons8.com/stickers/64/domain.png" title="WebSite" alt="WebSite"/></a>
   <a href="https://www.linkedin.com/in/xlahuerta/" target="_blank"><img src="https://img.icons8.com/stickers/64/linkedin.png" title="Linkedin Profile" alt="LinkedIn"/></a>
   <a href="mailto:xlahuerta@protonmail.com" target="_blank"><img src="https://img.icons8.com/stickers/64/new-post.png" title="Email Me:" alt="Gmail"/></a>
 </div>
