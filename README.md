@@ -5,7 +5,11 @@
 
 ## 😎 Introduction
 
-My name is __Xabier Lahuerta__ and I'm a __Software Development Engineer at Amazon__. I'm from the Basque Country, located at the North of Spain, and I'm currently pursuing a __Master's Degree in Language Analisys and Processing__ at the University of the Basque Country.
+Hi there 👋 I'm Xabier Lahuerta
+
+I'm a Software Development Engineer II at Amazon, based in Madrid, originally from the Basque Country. My current focus lies in web technologies and distributed systems — areas where I enjoy solving complex problems and building scalable, resilient solutions.
+
+I’m always curious about new tools, patterns, and architectures that make the web more robust and efficient. Here on GitHub, you'll mostly find personal experiments, open-source contributions, and projects aligned with my evolving interests in backend engineering and modern web stacks.
 
 ## 🙋‍♂️ Let's Connect
 <div align="center">
